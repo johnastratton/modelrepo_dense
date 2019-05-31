@@ -14,7 +14,7 @@ An example repository creating a model using the [DENSE](https://github.com/john
 
 * Create a git repository
 
-* Within that repository, use the command `git submodule https://github.com/johnastratton/DENSE.git`
+* Within that repository, use the command `git submodule add https://github.com/johnastratton/DENSE.git`
 
 * Commit the repository state, which should consist of .gitmodules and the DENSE directory (but not its contents)
 
